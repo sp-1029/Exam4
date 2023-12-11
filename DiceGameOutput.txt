@@ -1,0 +1,13 @@
+a rolled a 1 on a 2 sided die
+b rolled a 1 on a 2 sided die
+c rolled a 2 on a 2 sided die
+d rolled a 1 on a 2 sided die
+e rolled a 1 on a 2 sided die
+f rolled a 1 on a 2 sided die
+g rolled a 1 on a 2 sided die
+h rolled a 1 on a 2 sided die
+i rolled a 1 on a 2 sided die
+j rolled a 2 on a 2 sided die
+There is a tie between all of these players:
+c
+j
